@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">japan</string>
+    <string name="add_element">Ajouter un element</string>
+    <string name="button_save">Sauvegarder</string>
+    <string name="empty_not_saved">Element non saugardé</string>
+    <string name="kana">Kana</string>
+    <string name="kanji">Kanji</string>
+    <string name="vocabulaire">Vocabulaire</string>
+    <string name="notes">Notes</string>
+    <string name="francais">Français</string>
+    <string name="romanji">Romanji</string>
+    <string name="note">Note</string>
+    <string name="nom">Nom</string>
+    <string name="menu_add">Ajouter</string>
+    <string name="categorie">Categorie</string>
+    <string name="parent">Parent</string>
+    <string name="button_select_cat">Selectioner categorie</string>
+    <string name="aucune_cat">Aucune categorie</string>
+</resources>
